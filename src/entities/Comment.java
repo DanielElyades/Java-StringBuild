@@ -1,6 +1,7 @@
 package entities;
 
 public class Comment {
+<<<<<<< HEAD
 	
 	private String text;
 	
@@ -21,5 +22,7 @@ public class Comment {
 		this.text = text;
 	}
 	
+=======
+>>>>>>> 94a1b9492b1e247fa00fd6d0988b8daae4179811
 
 }

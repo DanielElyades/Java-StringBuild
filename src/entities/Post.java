@@ -1,5 +1,6 @@
 package entities;
 
+<<<<<<< HEAD
 import java.text.SimpleDateFormat;
 import java.util.ArrayList;
 import java.util.Date;
@@ -85,4 +86,8 @@ public String toString() {
 	return sb.toString();
 	
 }
+=======
+public class Post {
+
+>>>>>>> 94a1b9492b1e247fa00fd6d0988b8daae4179811
 }
